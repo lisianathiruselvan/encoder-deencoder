@@ -50,6 +50,7 @@ D1 = X’ Y’ Z D2 = X’ Y Z’ D3 = X’ Y Z D4 = X Y’ Z’ D5 = X Y’ Z D
 
 
 Figure -04 8 to 3 Decoder implementation
+
 Procedure
 ```
 Step 1: Create module encoder and decoder.
@@ -92,6 +93,7 @@ assign d7 = (a&b&c);
 endmodule
 ```
 RTL LOGIC
+
 For ENCODER
 ![encoder](https://user-images.githubusercontent.com/119389971/214298602-b0d1a04e-7db7-4763-a184-143181c8f27a.png)
 
